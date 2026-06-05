@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @anushkasinghal18
-- 👀 I’m interested in learning new things
-- 🌱 I’m currently learning dsa
-- 📫 How to reach me anushkasinghal186@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: i also love art and craft
-- 
+<h1 align="center">
+Hi 👋, I'm Anushka Singhal
+</h1>
 
-<!---
-anushkasinghal18/anushkasinghal18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3 align="center">
+Computer Science Student | AI Enthusiast | Full Stack Learner
+</h3>
+
+<p align="center">
+Building impactful solutions through technology and creativity 🚀
+</p>
